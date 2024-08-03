@@ -1,11 +1,9 @@
 
 # Weapon-Detection
 
-![Test Set of Gun Detection](https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST)
 <div align="center">
   <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST)"  />
 </div>
-
 *Figure: Test Set of Gun Detection*
 
 

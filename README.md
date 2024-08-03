@@ -1,11 +1,11 @@
 
 # Weapon-Detection
-
+###
 <div align="center">
   <img height="400" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST)"  />
 </div>
 *Figure: Test Set of Gun Detection*
-
+###
 
 - Ensuring effective gun detection is vital in contemporary times to address escalating concerns about public safety and combat the increasing occurrences of crimes. 
 - This project aims to enhance gun detection models by fine-tuning various deep learning architectures. Our key objectives are as follows:

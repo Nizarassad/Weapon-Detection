@@ -1,6 +1,9 @@
 
 # Weapon-Detection
-<img align='center' src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"/>
+
+<div align="center">
+  <img height="150" src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"  />
+</div>
 
 *Figure: Test Set of Gun Detection*
 
@@ -38,6 +41,5 @@ In this section, we compare the performance of all four models on the test set
 ## Download Object Detection Models
 - Download the object detection models manyally through this link:
 - https://drive.google.com/drive/folders/1o37wWBGuH7HGw9sc2HK1VMCc3maSKQuM?usp=sharing
-
 
 

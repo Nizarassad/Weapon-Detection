@@ -1,0 +1,8 @@
+The link below contains the best-performing models from the 4 architectures used in this study:
+
+-VGG16
+-Yolov5s
+-Yolov7
+-Yolov8
+
+https://drive.google.com/drive/folders/1o37wWBGuH7HGw9sc2HK1VMCc3maSKQuM?usp=sharing

@@ -1,6 +1,6 @@
 
 # Weapon-Detection
-<img src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="400"/>
+<img align='center' src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"/>
 
 *Figure: Test Set of Gun Detection*
 

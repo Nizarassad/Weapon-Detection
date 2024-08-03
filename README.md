@@ -5,7 +5,6 @@
   <img height="350" src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"  />
 </div>
 
-*Figure: Test Set of Gun Detection*
 
 
 - Ensuring effective gun detection is vital in contemporary times to address escalating concerns about public safety and combat the increasing occurrences of crimes. 

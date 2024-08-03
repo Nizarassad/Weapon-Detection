@@ -9,7 +9,7 @@
 - Ensuring effective gun detection is vital in contemporary times to address escalating concerns about public safety and combat the increasing occurrences of crimes. 
 - This project aims to enhance gun detection models by fine-tuning various deep learning architectures. Our key objectives are as follows:
 
-## Primary Goals
+## 🎯 Goals
 - Achieve superior accuracy compared to existing gun detection models.
 - Experiment with hyperparameter tuning to find optimal configurations.
 - Focus on reducing false positive predictions while increasing precision.

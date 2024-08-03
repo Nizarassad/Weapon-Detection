@@ -2,7 +2,7 @@
 # Weapon-Detection
 
 <div align="center">
-  <img height="400" src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"  />
+  <img height="350" src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Test Set of Gun Detection" width="500"  />
 </div>
 
 *Figure: Test Set of Gun Detection*

@@ -36,5 +36,6 @@ In this section, we compare the performance of all four models on the test set
 ## Download Object Detection Models
 - Download the object detection models manyally through this link:
 - https://drive.google.com/drive/folders/1o37wWBGuH7HGw9sc2HK1VMCc3maSKQuM?usp=sharing
+- Download the weight file and place it in "models" folder
 
 

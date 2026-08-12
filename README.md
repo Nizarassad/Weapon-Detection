@@ -10,6 +10,12 @@ The project investigates whether transfer learning and fine-tuning can support g
 
 The work should be read as an academic experiment, not evidence that the models generalize to every weapon, camera, population, or deployment environment.
 
+### Example test-set visual
+
+<div align="center">
+  <img height="350" src="https://drive.google.com/uc?id=1L2AJvTsN4-H7bswK1zGTtNYHExhT4wST" alt="Gun-detection test-set example" width="500" />
+</div>
+
 ## Historical results
 
 The following values are transcribed from Table 5 of the submitted project report. The reported test set contained 250 images.

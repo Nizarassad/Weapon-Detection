@@ -1,5 +1,7 @@
 # Real-Time Gun Detection System
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21903250.svg)](https://doi.org/10.5281/zenodo.21903250)
+
 Research software and the supporting MSc Data Science project artifact for comparing four deep-learning approaches to gun detection: YOLOv5s, YOLOv7, YOLOv8s, and VGG16.
 
 > **Research status:** the original project was completed in 2023. This repository is being prepared as a public research artifact in 2026. It has not been peer reviewed and is not a safety-certified detection system.
@@ -81,7 +83,11 @@ Supervisor attribution records academic supervision and does not imply repositor
 
 ## Citation
 
-Until a DOI is issued, cite the repository using [CITATION.cff](CITATION.cff). After the first audited GitHub release is archived by Zenodo, the DOI will be added here and to the citation metadata.
+Cite the archived v1.0.0 artifact as:
+
+> Assad, N. (2026). *Real-Time Gun Detection System* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21903250
+
+Use the version DOI above when citing this exact release. The all-versions DOI, which always resolves to the latest archived version, is [10.5281/zenodo.21903249](https://doi.org/10.5281/zenodo.21903249). Machine-readable metadata is available in [CITATION.cff](CITATION.cff).
 
 ## Rights
 

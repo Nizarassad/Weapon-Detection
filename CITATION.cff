@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it using the metadata below."
+title: "Real-Time Gun Detection System"
+type: software
+version: 1.0.0
+date-released: 2026-08-12
+authors:
+  - family-names: Assad
+    given-names: Nizar
+repository-code: "https://github.com/Nizarassad/Weapon-Detection"
+url: "https://github.com/Nizarassad/Weapon-Detection"
+abstract: >-
+  Research software and an MSc project artifact comparing YOLOv5s, YOLOv7,
+  YOLOv8s, and VGG16 for gun detection. The artifact has not been peer reviewed
+  and is not a safety-certified detection system.
+keywords:
+  - computer vision
+  - object detection
+  - gun detection
+  - deep learning
+  - YOLO
+license: other

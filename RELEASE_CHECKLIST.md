@@ -4,16 +4,16 @@ Do not create a GitHub release or Zenodo DOI until every blocking item is comple
 
 ## Blocking security checks
 
-- [ ] Revoke and rotate every Roboflow credential previously committed.
-- [ ] Revoke and rotate every ClearML credential previously committed.
-- [ ] Confirm that the current release tree contains no credentials or private configuration.
+- [x] Revoke and rotate every Roboflow credential previously committed — completed 2026-08-12.
+- [x] Revoke remaining ClearML credentials — completed 2026-08-12; the originally exposed credential was already absent.
+- [x] Confirm that the current release tree contains no credentials or private configuration.
 - [ ] Review provider account activity for unexpected use.
 - [ ] Decide whether to rewrite Git history; this is separate, disruptive work and must be coordinated before force-pushing.
 
 ## Rights and privacy checks
 
 - [ ] Confirm the right to redistribute the MSc report publicly.
-- [ ] Audit `unseen_data.zip` image provenance, consent, copyright, and privacy.
+- [x] Audit `unseen_data.zip` image provenance, consent, copyright, and privacy — archive removed because redistribution rights were undocumented.
 - [ ] Audit saved notebook outputs for third-party images, personal data, and private metadata.
 - [ ] Confirm redistribution terms for every bundled or externally hosted model weight.
 - [ ] Confirm the external dataset's version and terms; do not imply it is bundled or relicensed.

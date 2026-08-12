@@ -34,7 +34,7 @@ These are historical project results, not a universal benchmark. The report did 
 - `Notebooks/` — original training and evaluation notebooks
 - `Report/Individual Project Report.pdf` — submitted MSc project report
 - `Models/Best Performing models.txt` — link to externally hosted trained weights
-- `unseen_data.zip` — small qualitative evaluation archive; provenance must be audited before redistribution in a DOI release
+- Qualitative unseen-image testing is discussed in the report; the underlying third-party images are intentionally excluded because redistribution rights were not documented.
 - `REPRODUCIBILITY.md` — rerun guidance and known reproducibility limits
 - `ETHICS.md` — responsible-use and risk statement
 - `RIGHTS_AND_LICENSING.md` — current rights position

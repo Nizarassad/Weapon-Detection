@@ -7,8 +7,9 @@ date-released: 2026-08-12
 authors:
   - family-names: Assad
     given-names: Nizar
+doi: "10.5281/zenodo.21903250"
 repository-code: "https://github.com/Nizarassad/Weapon-Detection"
-url: "https://github.com/Nizarassad/Weapon-Detection"
+url: "https://doi.org/10.5281/zenodo.21903250"
 abstract: >-
   Research software and an MSc project artifact comparing YOLOv5s, YOLOv7,
   YOLOv8s, and VGG16 for gun detection. The artifact has not been peer reviewed

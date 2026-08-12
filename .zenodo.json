@@ -1,0 +1,24 @@
+{
+  "title": "Real-Time Gun Detection System",
+  "description": "Research software and an MSc Data Science project artifact comparing YOLOv5s, YOLOv7, YOLOv8s and VGG16 for gun detection. The artifact is not peer reviewed and is not a safety-certified detection system.",
+  "creators": [
+    {
+      "name": "Assad, Nizar"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Giannopoulos, Panos",
+      "type": "Supervisor"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "computer vision",
+    "object detection",
+    "gun detection",
+    "deep learning",
+    "YOLO"
+  ]
+}
